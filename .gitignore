@@ -1,0 +1,4 @@
+venv/
+*.log
+config/wazuh_indexer/certs/*.key
+config/wazuh_indexer/certs/*.pem

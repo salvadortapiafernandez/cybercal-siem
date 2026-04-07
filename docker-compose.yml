@@ -1,0 +1,6 @@
+services:
+  asterisk:
+    image: mlan/asterisk:full
+    container_name: asterisk
+    network_mode: host
+    restart: unless-stopped
