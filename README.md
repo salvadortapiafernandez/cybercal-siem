@@ -1,11 +1,4 @@
 
-
-# 📞 CyberCall - De Ejecutivo Callcenter a Ciberdefensor
-
-> *"De tomar llamadas en el Banco Estado a defenderlas con código"*
-
-## 🎯 La Historia Real
-
 Corría el año 2024 cuando trabajaba como ejecutivo en el callcenter del **Banco Estado**. 
 Día tras día, atendía clientes, resolvía dudas y veía cómo operaba la central telefónica. 
 Pero también fui testigo de algo más oscuro: clientes que reportaban cargos no reconocidos, 
